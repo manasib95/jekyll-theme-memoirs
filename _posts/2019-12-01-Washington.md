@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Culinary Arts in Europe by Jean Anthelme Brillat-Savarin"
+title:  "Washington"
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/7.jpg
