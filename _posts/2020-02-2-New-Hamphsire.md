@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "New Hamphsire"
-author: sal
+author: Manasi
 categories: [ Lifestyle ]
 tags: [ France ]
-image: assets/images/2.jpg
+image: assets/images/New.jpg.jpg
 rating: 4.5
 ---
