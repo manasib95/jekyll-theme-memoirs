@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hanging Rock"
-author: sal
+author: Manasi
 categories: [ Travel ]
-image: assets/images/15.jpg
+image: assets/images/hanging.jpeg
 ---
