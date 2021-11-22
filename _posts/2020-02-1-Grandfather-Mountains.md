@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GrandFather Mountains"
-author: john
+author: Manasi
 categories: [ Travel ]
 image: assets/images/grandfather.jpg
 ---
