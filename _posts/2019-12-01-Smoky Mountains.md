@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Observer - National Gallery of Art, Washington, United States"
+title:  "Smoky Mountains"
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/1.jpg
