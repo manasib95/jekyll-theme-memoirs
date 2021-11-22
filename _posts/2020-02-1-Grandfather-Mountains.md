@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Much more than a desert: A trip into the Sahara"
+title:  "GrandFather Mountains"
 author: john
 categories: [ Travel ]
 image: assets/images/16.jpg
