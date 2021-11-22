@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "New Jersey"
-author: john
+author: Manasi
 categories: [ Lifestyle ]
 tags: [Movies]
-image: assets/images/11.jpg
+image: assets/images/newjersey.jpg
 description: "New Jersey."
 rating: 4.5
 ---
